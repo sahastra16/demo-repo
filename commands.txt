@@ -1,0 +1,6 @@
+This is a linux fundamentals session
+echo
+ls
+cd
+hostname
+date
